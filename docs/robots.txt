@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /date/2010*$
+Disallow: /date/200*$
+Disallow: /date/19*$
